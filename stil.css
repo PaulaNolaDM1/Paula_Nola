@@ -1,0 +1,11 @@
+@charset "UTF-8";
+  /* CSS Document */
+body{font-family: sans-serif; }
+body {background-color: rgb(255, 216, 145);}
+h1, h2 {color: rgb(255, 77, 77)}
+
+a:link {color: black
+      background-color: white;
+      padding: 5px;
+      line-height: 40px;
+      border:1px solid #00000;}
